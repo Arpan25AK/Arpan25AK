@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arpan+%F0%9F%91%8B;Backend+%26+AI+Engineer;Java+%7C+Spring+Boot+%7C+Redis;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arpan+%F0%9F%91%8B;Backend+%26+Developer;Java+%7C+Spring+Boot+%7C+Redis;Building+Scalable+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech in Mechanical Engineering** @ UVCE, Bengaluru *(CGPA: 8.10 | 2022–2026)*
+- 🎓 **B.Tech in Mechanical Engineering** @ UVCE, Bengaluru *(2022–2026)*
 - 🔭 Currently building **DevFlow** — an event-driven microservices version control platform
 - 🧠 Passionate about **distributed systems**, **AI/ML pipelines**, and **backend architecture**
 - 🌱 Exploring **RAG**, **LLM integration**, and **high-performance API design**

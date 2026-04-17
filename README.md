@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpan25AK&label=Profile%20Views&color=0891b2&style=flat" alt="Arpan25AK" />
   <a href="https://github.com/Arpan25AK?tab=followers">
     <img src="https://img.shields.io/github/followers/Arpan25AK?label=Followers&style=flat&color=0891b2" />
   </a>
@@ -33,6 +32,28 @@
   </a>
   <a href="https://github.com/Arpan25AK" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚔️ Competitive Programming & DSA
+
+<p align="left">
+  <a href="https://leetcode.com/u/ArpanAK/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/akarpabd6b" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ArpanAK" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/ArpanAK/" target="_blank">
+    <img src="https://leetcode-stats-api.herokuapp.com/ArpanAK" alt="LeetCode Stats" />
   </a>
 </p>
 

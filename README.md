@@ -115,6 +115,7 @@
 
 - ☁️ **AWS Cloud Practitioner Essentials** — Amazon Web Services *(2025)*
 - 🐳 **Docker Essentials: A Developer Introduction** — Docker, Inc. *(2025)*
+- 🟦 **Software Engineering Job Simulation** — HPE *(2026)*
 
 ---
 

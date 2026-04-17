@@ -53,7 +53,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/ArpanAK/" target="_blank">
-    <img src="https://leetcode-stats-api.herokuapp.com/ArpanAK" alt="LeetCode Stats" />
+   
   </a>
 </p>
 

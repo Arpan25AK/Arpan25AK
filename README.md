@@ -104,10 +104,10 @@
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [**DevFlow**](https://github.com/Arpan25AK) | Java, Spring Boot, Kafka, PostgreSQL, MinIO | Event-driven microservices version control platform with API Gateway & Eureka service registry |
-| [**Intelligent AI API Gateway**](https://github.com/Arpan25AK) | Java, Spring Boot, Redis, MySQL, Docker | Dynamic routing gateway with JWT auth, sliding-window rate limiter, and Gemini/Groq balancing |
-| [**Sentinel**](https://github.com/Arpan25AK) | Java, Spring Boot, Kafka, Thymeleaf | Async notification microservice using Kafka for real-time event-driven email dispatch |
-| [**One Piece AI Chatbot**](https://github.com/Arpan25AK) | Python, RAG, GPT-4o, Vector Embeddings | RAG chatbot with semantic search using all-mpnet-base-v2 and OpenAI GPT-4o |
+| [**DevFlow**](https://github.com/Arpan25AK/DevFlow) | Java, Spring Boot, Kafka, PostgreSQL, MinIO | Event-driven microservices version control platform with API Gateway & Eureka service registry |
+| [**Intelligent AI API Gateway**](https://github.com/Arpan25AK/ApiGateWayApplication) | Java, Spring Boot, Redis, MySQL, Docker | Dynamic routing gateway with JWT auth, sliding-window rate limiter, and Gemini/Groq balancing |
+| [**Sentinel**](https://github.com/Arpan25AK/Sentinel) | Java, Spring Boot, Kafka, Thymeleaf | Async notification microservice using Kafka for real-time event-driven email dispatch |
+| [**One Piece AI Chatbot**](https://github.com/Arpan25AK/ChatBot) | Python, RAG, GPT-4o, Vector Embeddings | RAG chatbot with semantic search using all-mpnet-base-v2 and OpenAI GPT-4o |
 
 ---
 

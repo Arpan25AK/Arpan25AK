@@ -27,7 +27,7 @@
   <a href="mailto:akarpan2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arpan-anand-kotian" target="_blank">
+  <a href="https://www.linkedin.com/in/arpan-anand-kotian-104897364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Arpan25AK" target="_blank">

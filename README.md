@@ -16,7 +16,6 @@
 - 🔭 Currently building **DevFlow** — an event-driven microservices version control platform
 - 🧠 Passionate about **distributed systems**, **AI/ML pipelines**, and **backend architecture**
 - 🌱 Exploring **RAG**, **LLM integration**, and **high-performance API design**
-- ⚡ Fun fact: Mech engineer who writes more Java than mechanical drawings
 - 📫 Reach me at **akarpan2005@gmail.com**
 
 ---

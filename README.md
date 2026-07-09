@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech in Mechanical Engineering** @ UVCE, Bengaluru *(2022 – 2026)*
+- 🎓 **B.Tech in Engineering** @ UVCE, Bengaluru *(2022 – 2026)*
 - 🔭 Currently building **DevFlow** — an event-driven microservices version control platform
 - 🧠 Passionate about **distributed systems**, **AI/ML pipelines**, and **backend architecture**
 - 🌱 Exploring **RAG**, **LLM integration**, and **high-performance API design**

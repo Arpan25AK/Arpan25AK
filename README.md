@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arpan+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Redis;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Arpan+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Building+Scalable+Microservices" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,10 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech in Engineering** @ UVCE, Bengaluru *(2022 – 2026)*
+- 🎓 **B.Tech in Engineering** @ University of Visvesvaraya College of Engineering (UVCE), Bengaluru *(2022 – 2026)*
+- 💼 Java backend developer with hands-on experience architecting scalable **Spring Boot** microservices and event-driven systems using **Apache Kafka**
 - 🔭 Currently building **DevFlow** — an event-driven microservices version control platform
-- 🧠 Passionate about **distributed systems**, **AI/ML pipelines**, and **backend architecture**
-- 🌱 Exploring **RAG**, **LLM integration**, and **high-performance API design**
+- 🧠 Proficient in system design, RESTful API development, JWT security, and distributed data stores (PostgreSQL, Redis, MongoDB)
+- 🌱 Exploring **RAG**, **LLM integration**, and high-performance API design
 - 📫 Reach me at **akarpan2005@gmail.com**
 
 ---
@@ -50,12 +51,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://leetcode.com/u/ArpanAK/" target="_blank">
-   
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -71,14 +66,20 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+**System Design**
+
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eureka](https://img.shields.io/badge/Service_Registry_(Eureka)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6C37?style=for-the-badge&logo=kong&logoColor=white)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Databases & Messaging**
@@ -89,6 +90,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,6 +102,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+**Testing**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -105,7 +117,6 @@
 |--------|-------|-------------|
 | [**DevFlow**](https://github.com/Arpan25AK/DevFlow) | Java, Spring Boot, Kafka, PostgreSQL, MinIO | Event-driven microservices version control platform with API Gateway & Eureka service registry |
 | [**Intelligent AI API Gateway**](https://github.com/Arpan25AK/ApiGateWayApplication) | Java, Spring Boot, Redis, MySQL, Docker | Dynamic routing gateway with JWT auth, sliding-window rate limiter, and Gemini/Groq balancing |
-| [**Sentinel**](https://github.com/Arpan25AK/Sentinel) | Java, Spring Boot, Kafka, Thymeleaf | Async notification microservice using Kafka for real-time event-driven email dispatch |
 | [**One Piece AI Chatbot**](https://github.com/Arpan25AK/ChatBot) | Python, RAG, GPT-4o, Vector Embeddings | RAG chatbot with semantic search using all-mpnet-base-v2 and OpenAI GPT-4o |
 
 ---

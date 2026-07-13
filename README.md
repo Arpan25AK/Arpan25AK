@@ -132,12 +132,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan25AK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan25AK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arpan25AK&theme=github_dark" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 <p align="center">

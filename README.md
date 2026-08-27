@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arpan25AK&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arpan25AK&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -149,6 +149,9 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-313%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpan25AK&theme=react-dark&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-Backend_%26_Full--Stack_Roles-2ea44f?style=for-the-badge" />

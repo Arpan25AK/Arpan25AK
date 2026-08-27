@@ -14,7 +14,7 @@
 
 - 🎓 **B.Tech in Engineering** @ University of Visvesvaraya College of Engineering (UVCE), Bengaluru *(2022 – 2026)*
 - 💼 Java backend developer with hands-on experience architecting scalable **Spring Boot** microservices and event-driven systems using **Apache Kafka**
-- 🔭 Currently building **DevFlow** — an event-driven microservices version control platform
+- 🔭 Currently building **Nexus** — a Disaster Resource Allocation application
 - 🧠 Proficient in system design, RESTful API development, JWT security, and distributed data stores (PostgreSQL, Redis, MongoDB)
 - 🌱 Exploring **RAG**, **LLM integration**, and high-performance API design
 - 📫 Reach me at **akarpan2005@gmail.com**
